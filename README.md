@@ -1,7 +1,6 @@
 #  Inventaire des données de séquençage liées à CDH2 — Cancer de la prostate
 
 Projet interdisciplinaire — Université de Strasbourg 2025-2026  
-**Dimitrina Ivanova & Faten Tinzaghti** — Encadré par Bruno Kieffer
 
 ##  Description
 Pipeline bioinformatique automatisé pour l'inventaire et l'annotation 
